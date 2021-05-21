@@ -1,0 +1,12 @@
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes Experts.csprojAssemblyReference.cache
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes_Experts.AjoutRegle.resources
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes_Experts.Form1.resources
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes_Experts.Properties.Resources.resources
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes Experts.csproj.GenerateResource.cache
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes Experts.csproj.CoreCompileInputs.cache
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\bin\Debug\Systemes Experts.exe.config
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\bin\Debug\Systemes Experts.exe
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\bin\Debug\Systemes Experts.pdb
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes Experts.exe
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes Experts.pdb
+D:\Documents\Devlopement\.NET\AI\Systemes Experts\obj\Debug\Systemes_Experts.Process.resources
